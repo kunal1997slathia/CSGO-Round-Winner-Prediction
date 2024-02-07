@@ -1,6 +1,6 @@
 # CSGO-Round-Winner-Prediction
 
-# CSGO Round Prediction : Predicting round outcomes in CS:GO using machine learning. Explore esports analytics, tactical insights, and enhance gameplay strategies.
+## CSGO Round Prediction : Predicting round outcomes in CS:GO using machine learning. Explore esports analytics, tactical insights, and enhance gameplay strategies.
 
 Explore the realm of Counter-Strike: Global Offensive (CS:GO) with our CSGO Round Prediction project. This repository delves into the competitive gaming landscape, offering in-depth analysis and predictive modeling for round outcomes in one of the most renowned first-person shooter games.
 
